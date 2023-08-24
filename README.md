@@ -20,3 +20,7 @@ git config core.ignorecase false
 ## Git Clone
 $ git clone "URL"
 $ git checkout "branch"
+
+
+## For Packeges
+Set-ExecutionPolicy Unrestricted
