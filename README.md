@@ -17,4 +17,6 @@ $ git push -u origin main
 ## Git commands for ignore camel case
 git config core.ignorecase false
 
-
+## Git Clone
+$ git clone "URL"
+$ git checkout "branch"
