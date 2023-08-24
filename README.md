@@ -14,4 +14,7 @@ $ git add .
 $ git commit -m "Your Commit"
 $ git push -u origin main
 
+## Git commands for ignore camel case
+git config core.ignorecase false
+
 
