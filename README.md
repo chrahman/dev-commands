@@ -1,7 +1,9 @@
 # git-commands
 
 ## Basic Git setup commands
+
 $ git config --global user.name "Your Name"
+
 $ git config --global user.email "you@youraddress.com"
 
 
@@ -10,8 +12,11 @@ $ git remote set-url origin https://<TOKEN>@github.com/<username>/<repository>.g
 
 ## Git commands repo
 $ git init
+
 $ git add .
+
 $ git commit -m "Your Commit"
+
 $ git push -u origin main
 
 ## Git commands for ignore camel case
@@ -19,8 +24,16 @@ git config core.ignorecase false
 
 ## Git Clone
 $ git clone "URL"
+
 $ git checkout "branch"
 
 
 ## For Packeges
 Set-ExecutionPolicy Unrestricted
+
+## install postgress
+Download from: https://postgresapp.com/downloads.html
+
+Goto dumpfile location and run this command:
+
+psql -d postgres -f sqlfile.sql
