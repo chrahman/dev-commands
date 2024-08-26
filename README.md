@@ -1,4 +1,4 @@
-# git-commands
+# dev-commands
 
 ## Basic Git setup commands
 
